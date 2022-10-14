@@ -1,5 +1,7 @@
 .App {
     --header_height: 60px;
+    margin-right: 20px;
+    margin-left: 20px;
 }
 
 .hw {
