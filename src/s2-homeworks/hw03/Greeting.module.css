@@ -35,7 +35,7 @@
     margin: 10px;
     width: 60px;
 
-    background: #003300;
+    background: #0d460d;
     color: #99ff99;
     outline: none;
 }
@@ -49,7 +49,7 @@
 }
 
 .button:disabled {
-    color: #005500;
+    color: #1e761e;
 }
 
 .text {
